@@ -1,0 +1,21 @@
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      author: Dan Bernier
+      layout: default
+      section: front
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      section: projects
+  -
+    scope:
+      path: "blog"
+      type: "pages"
+    values:
+      section: blog
