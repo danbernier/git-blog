@@ -10,7 +10,10 @@
   url('/fonts/FiraSans-Heavy/firasans-heavy-webfont.svg#webfont') format('svg');
 }
 
-body { background-color: #222; }
+body {
+  background-color: #222;
+  font-family: Georgia;
+}
 
 
 #main { background-color: #fff; }
