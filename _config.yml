@@ -1,21 +1,8 @@
 defaults:
   -
     scope:
-      path: ""
-      type: "pages"
+      #path: ""   # an empty string here means all files in the project
+      type: "posts"   # or "pages"
     values:
       author: Dan Bernier
-      layout: default
-      section: front
-  -
-    scope:
-      path: "projects"
-      type: "pages"
-    values:
-      section: projects
-  -
-    scope:
-      path: "blog"
-      type: "pages"
-    values:
-      section: blog
+      layout: posts

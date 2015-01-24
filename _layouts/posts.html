@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
+  <body>
+
+    <div class='container' id='main'>
+
+      <div class="row">
+        <div class='col-md-4'>
+          <header>
+            <h1>Dan Bernier</h1>
+          </header>
+        </div>
+
+        <div class='col-md-8'>
+          <h2>{{ page.title }}</h2>
+          {{ content }}
+        </div>
+      </div>
+
+    </div>
+
+    {% include footer-js.html %}
+  </body>
+</html>
