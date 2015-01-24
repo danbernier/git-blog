@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    {% include header.html %}
+    {% include head-assets.html %}
   </head>
   <body>
 
@@ -9,9 +9,7 @@
 
       <div class="row">
         <div class='col-md-4'>
-          <header>
-            <h1>Dan Bernier</h1>
-          </header>
+          {% include header.html %}
         </div>
 
         <div class='col-md-8'>
@@ -19,8 +17,7 @@
         </div>
       </div>
 
+      {% include footer.html %}
     </div>
-
-    {% include footer-js.html %}
   </body>
 </html>

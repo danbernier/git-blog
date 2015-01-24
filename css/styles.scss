@@ -13,6 +13,7 @@
 body {
   background-color: #222;
   font-family: Georgia;
+  font-size: 12pt;
 }
 
 
@@ -21,5 +22,9 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'FiraSansHeavy', Helvetica, Arial, sans;
 }
+
+a { color: #7BB74C; }
+a:hover { color: #D8D255; } /* yellow */
+a:hover { color: #65953E; }  /* darker */
 
 .nav-tabs { background-color: #eee; }
