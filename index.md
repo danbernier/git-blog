@@ -1,5 +1,5 @@
 ---
-title: Home again, home again
+title: 'generative art'
 layout: front
 ---
 
