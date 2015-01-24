@@ -9,7 +9,7 @@ date: 2015-01-24
 ## Docs, Examples
 
 * [bootstrap components doc](http://getbootstrap.com/components/)
-* [jekyll](http://jekyllrb.com/docs/)
+* [jekyll](http://jekyllrb.com/docs/), and [jekyll for github pages](http://jekyllrb.com/docs/github-pages/)
 * [Github, using jekyll with pages](https://help.github.com/articles/using-jekyll-with-pages/)
 * [the old github training jekyll](https://github.com/github/training.github.com/)
 * [fontawesome](http://fontawesome.io/icons/)
