@@ -12,6 +12,7 @@ date: 2015-01-24
 * [jekyll](http://jekyllrb.com/docs/)
 * [Github, using jekyll with pages](https://help.github.com/articles/using-jekyll-with-pages/)
 * [the old github training jekyll](https://github.com/github/training.github.com/)
+* [fontawesome](http://fontawesome.io/icons/)
 
 
 ## Webfonts
