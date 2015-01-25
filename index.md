@@ -11,4 +11,6 @@ layout: front
 {{ post.tagline }}
 
 {{ post.timeline }}
+
+{% if post.thumbnail %}![thumbnail]({{site.baseurl}}/images/{{ post.thumbnail }}){% endif %}
 {% endfor %}
