@@ -25,3 +25,5 @@ date: 2015-01-24
 * [p5.js](https://github.com/lmccart/p5.js/wiki/p5.js-overview)
 
 ## Other projects to show
+
+* nu gears logo?
