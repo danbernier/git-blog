@@ -1,4 +1,5 @@
 baseurl: /git-blog
+exclude: [src]
 defaults:
   -
     scope:
