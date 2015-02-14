@@ -10,7 +10,7 @@ layout: front
 
 {{ post.tagline }}
 
-{{ post.timeline }}
+<div class="timeline">{{ post.timeline }}</div>
 
 {% if post.thumbnail %}![thumbnail]({{site.baseurl}}/images/{{ post.thumbnail }}){% endif %}
 {% endfor %}
