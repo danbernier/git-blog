@@ -3,6 +3,7 @@ title: Fractal Circles
 date: 2014-07-01
 tagline: ""
 timeline: July-September 2014
+thumbnail: fractal-circles.thumbnail.png
 ---
 
 * at ReGenerate 2014, and CWOS 2014
